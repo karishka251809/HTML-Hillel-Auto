@@ -1,0 +1,56 @@
+<html>
+{
+ "status": "ok"
+}
+{
+ "name": "Edward",
+ "lastName": "Berger",
+ "email": "test@test.com",
+ "password": "Rewerd12345",
+ "repeatPassword":"Rewerd12345"
+}
+{
+ "status": "ok",
+ "data": {18.12.23.},
+  "userId":  1,
+ "distanceUnits": "ml",
+ "currency":"usd",
+ "photoFilename":"Edward-user.png"  
+{
+  "status": "ok"
+}
+{
+  "status": "ok",
+  "message": "Not authenticated"
+}
+  "data": [18.12.23.]
+  "id": 1,
+  "title": "BMW",
+  "logoFilename":  "BMW.png"  "20794725.jpg"
+}
+{
+"status": "ok",
+ "data": {18.12.23.},
+ "carBrandId":" https://cars-base.ru/api/cars/AC"
+ "carModelId":" https://cars-base.ru/api/cars/AC"
+}
+{
+  "status": "ok",
+  "data": {18.12.23.},
+    "carId : " https://cars-base.ru/api/cars/AC"
+}
+{
+  "status": "error",
+  "message": "Bad request"
+}
+{
+  "status": "ok",
+  "message": "Not authenticated"
+}
+{
+  "status": "error",
+  "message": "Not found"
+}
+
+
+ 
